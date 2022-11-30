@@ -1,5 +1,5 @@
 import streamlit as st
-import plost
+#import plost
 import pandas as pd
 
 #st.sidebar()
